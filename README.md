@@ -1,4 +1,4 @@
-sensor-laboratory-coep
-======================
+SensorLab-coep
+==============
 
-This repository is for lab Sensor Laboratory Lab developed by College of engineering pune(COEP)
+this lab includes the source code for Sensor Lab developed by COE Pune
