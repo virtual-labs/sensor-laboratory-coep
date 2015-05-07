@@ -58,8 +58,7 @@ edit --><!DOCTYPE html>
           </div>
 <!-- Write the section content inside a paragraph 
           element, You can also include images with &lt;img&gt; tag -->
-<div class="content" id="experiment-article-section-1-content"><div class="divContent"><h2 style="color: Red;"><strong><u><span style="font-family: arial,helvetica,sans-serif; color: rgb(255, 0, 0);"><span style="font-size: large;"></span></span></u></strong></h2>
-<p> </p>
+<div class="content" id="experiment-article-section-1-content"><div class="divContent">
 <p class="MsoNormal" style="line-height: 150%; text-align: right;"><a href="http://coep.vlab.co.in/?sub=33&amp;brch=91"><span style="font-family: arial,helvetica,sans-serif; font-size: medium;"></span></a></p>
 <p><span style="font-size: medium; font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);"><strong style="font-size: large;">Aim</strong>: To design an orifice plate for a typical application</span></p>
 <p> </p>
@@ -1419,14 +1418,15 @@ An orifice plate is a thin plate with a hole in the center of the plate. It is u
         </div>
 <div class="content" id="experiment-article-section-4-content"><div class="divContent"><p><a href="orifice.html" target="_blank">Click here for Simulator</a></p></div></div>
 </section>
-<section id="experiment-article-section-5" style="margin:70px;">
+<section id="experiment-article-section-5">
 <div class="icon" id="experiment-article-section-5-icon">
 <!-- Enclose the icon image of your lab.-->
 <img src="images/content_2.png"/>
 </div>
-<br><br><br><div class="heading" id="experiment-article-section-5-heading">
+<br><br><br><br><div class="heading" id="experiment-article-section-5-heading">
           Procedure
         </div>
+<div class="content" id="experiment-article-section-5-content"><div class="divContent" style="margin-left:30px;">
 <!--<div class="content" id="experiment-article-section-5-content"><div class="divContent"><iframe allowfullscreen="" frameborder="0" height="480" src="https://www.youtube-nocookie.com/embed/c2bCO4EHguY?rel=0" width="853"></iframe>-->
 
 <!--[if gte mso 9]&gt;&lt;xml&gt;
@@ -1745,7 +1745,7 @@ mso-pagination:widow-orphan;
 font-size:10.0pt;
 font-family:"Times New Roman","serif";}
 &lt;/style&gt;
-&lt;![endif]--><big><font color="red">Click on simulator tab and log in for working with simulator.</font><p></p> <br><b>The procedure for using simulator is as follows:</b></big></h3>
+&lt;![endif]--><br><big><font color="red">Click on simulator tab and log in for working with simulator.</font><p></p> <br><b>The procedure for using simulator is as follows:</b></big>
  <!--[if gte mso 9]&gt;&lt;xml&gt;
 &lt;w:WordDocument&gt;
 &lt;w:View&gt;Normal&lt;/w:View&gt;
@@ -2915,6 +2915,7 @@ mso-bidi-theme-font:minor-bidi;}
 <p class="MsoNormal" style="line-height: 150%;"> </p>
 <p class="MsoNormal" style="line-height: 150%;"> </p>
 <p class="MsoNormal" style="line-height: 150%;"><span lang="EN-IN" style='font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'> </span></p>
+</div></div>
 </section>
 <section id="experiment-article-section-6">
 <div class="icon" id="experiment-article-section-6-icon">

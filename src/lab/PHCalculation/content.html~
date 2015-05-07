@@ -58,8 +58,8 @@ edit --><!DOCTYPE html>
           </div>
 <!-- Write the section content inside a paragraph 
           element, You can also include images with &lt;img&gt; tag -->
-<div class="content" id="experiment-article-section-1-content"><div class="divContent"><h2 style="color: Red;"><strong><u><span style="font-family: arial,helvetica,sans-serif; color: rgb(255, 0, 0);"><span style="font-size: large;"></span></span></u></strong></h2>
-<p> </p>
+<div class="content" id="experiment-article-section-1-content"><div class="divContent">
+
 <p class="MsoNormal" style="line-height: 150%; text-align: right;"><a href="http://coep.vlab.co.in/?sub=33&amp;brch=91"><span style="font-family: arial,helvetica,sans-serif; font-size: medium;"></span></a></p>
 <p><span style="font-size: medium; font-family: arial,helvetica,sans-serif; color: rgb(0, 0, 0);"><strong style="font-size: large;">Aim</strong>: To understand the working principle of chemical sensors</span></p>
 <p> </p>
@@ -1537,14 +1537,15 @@ Conductivity is typically measured in aqueous solution of electrolytes. Electrol
 <p style="text-align: center;"> </p>
 <p style="text-align: center;"> </p>
 </section>
-<section id="experiment-article-section-6" style="margin:70px;">
+<section id="experiment-article-section-6">
 <div class="icon" id="experiment-article-section-6-icon">
 <!-- Enclose the icon image of your lab.-->
 <img src="images/content_2.png"/>
 </div>
-<br><br><br><div class="heading" id="experiment-article-section-6-heading">
+<br><br><br><br><div class="heading" id="experiment-article-section-6-heading">
           Procedure
         </div>
+<div class="content" id="experiment-article-section-6-content"><div class="divContent" style="margin-left:30px;">
 <!--<div class="content" id="experiment-article-section-5-content"><div class="divContent"> -->
 <!--<iframe allowfullscreen="" frameborder="0" height="480" src="https://www.youtube-nocookie.com/embed/c2bCO4EHguY?rel=0" width="853"></iframe>-->
 <!--[if gte mso 9]&gt;&lt;xml&gt;
@@ -2968,6 +2969,7 @@ In this experiment, one can change the value of the contamination and obser its 
 <p class="MsoNormal" style="line-height: 150%;"> </p>
 <p class="MsoNormal" style="line-height: 150%;"> </p>
 <p class="MsoNormal" style="line-height: 150%;"><span lang="EN-IN" style='font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'> </span></p>
+</div></div>
 </section>
 <section id="experiment-article-section-7">
 <div class="icon" id="experiment-article-section-7-icon">
@@ -6228,13 +6230,12 @@ mso-bidi-theme-font:minor-bidi;}
 
 <h2 style="margin-left: 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">       2.<span style='font: 7pt "Times New Roman";'>     </span></span><span style='font-size: 12pt; line-height: 150%; font-family: "Arial","sans-serif";'><a href="http://en.wikipedia.org/wiki/PH"><span style="color: rgb(0, 0, 0);">http://en.wikipedia.org/wiki/PH</span></a></span></h2>
 
-<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">3.</span> </span><b style=""><a href="http://www.eutechinst.com/techtips/tech-tips25.htm" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www.eutechinst.com/techtips/tech-tips25.htm</small></span></a></b><b style=""></b></h2>
 
-<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">4.</span> </span><b style=""><a href="http://en.wikipedia.org/wiki/Conductivity_(electrolytic)" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www.eutechinst.com/techtips/tech-tips25.htm</small></span></a></b><b style=""></b></h2>
+<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">3.</span> </span><b style=""><a href="http://en.wikipedia.org/wiki/Conductivity_(electrolytic)" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www.eutechinst.com/techtips/tech-tips25.htm</small></span></a></b><b style=""></b></h2>
 
-<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">5.</span> </span><b style=""><a href="http://www.mbhes.com/conductivity_measurement.htm" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www.mbhes.com/conductivity_measurement.htm</small></span></a></b><b style=""></b></h2>
+<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">4.</span> </span><b style=""><a href="http://www.mbhes.com/conductivity_measurement.htm" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www.mbhes.com/conductivity_measurement.htm</small></span></a></b><b style=""></b></h2>
 
-<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">6.</span> </span><b style=""><a href="http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Analytical%20Documents/Liq_ADS_43-002.pdf" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Analytical%20Documents/Liq_ADS_43-002.pdf</small></span></a></b><b style=""></b></h2>
+<h2 style="margin: 10pt 0in 0.25in 0.5in; text-indent: -0.25in; line-height: 150%;"><span style="color: rgb(0, 0, 0);">     </span><span style="color: rgb(51, 51, 0);">  </span><span style="color: rgb(0, 0, 0);"><span style="background-color: rgb(255, 255, 255);">5.</span> </span><b style=""><a href="http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Analytical%20Documents/Liq_ADS_43-002.pdf" target="_blank"><span style="color: rgb(0, 0, 0);"><small>http://www2.emersonprocess.com/siteadmincenter/PM%20Rosemount%20Analytical%20Documents/Liq_ADS_43-002.pdf</small></span></a></b><b style=""></b></h2>
 <p><span style="color: rgb(0, 0, 0);"> </span></p>
 <p> </p>
 <p> </p>

@@ -14,7 +14,7 @@ $(document).ready(function() {
 
 CAPACITANCE.view = (function() {
 	$("#mu").hide();
-	var ht, r, s
+	var ht, r, s;
 	var capacitanceView = Backbone.View.extend({
 		el : '#exp',
 

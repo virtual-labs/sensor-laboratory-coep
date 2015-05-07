@@ -69,7 +69,7 @@ LVDT.controller = (function() {
 						voltage *=-1;
 						//alert("The Output is "+voltage+" mV");
 					 }
-					 alert("The Output is "+voltage+" mV");
+					// alert("The Output is "+voltage+" mV");
 					 movingPoint = voltageBoard.create('point', [getCoreDisplacement, voltage], {
                    		 style: 5,
                     	name: 'p',
@@ -100,7 +100,7 @@ LVDT.controller = (function() {
 						voltage *=-1;
 						//alert("The Output is "+voltage+" mV");
 					 }
-					 alert("The Output is "+voltage+" mV");
+					 //alert("The Output is "+voltage+" mV");
 					 movingPoint = voltageBoard.create('point', [getCoreDisplacement, voltage], {
                    		 style: 5,
                     	name: 'p',
