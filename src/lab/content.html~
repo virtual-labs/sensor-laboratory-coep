@@ -25,7 +25,7 @@ edit -->
     <div id="lab-header-logo" class="logo">
       <!-- Enclose the logo image of your lab or write it in 
       text-->
-      <img src="images/logo.jpg" />
+      <img src="images/logo.png" />
     </div>
 
     <div id="lab-header-heading" class="heading">
@@ -82,7 +82,7 @@ edit -->
       <section id="lab-article-section-1">
         <div id="lab-article-section-1-icon" class="icon">
           <!-- Enclose the icon image for the section. -->
-	  <img src="images/introduction.jpg" />
+	  <img src="images/introduction.png" />
 	</div>
 
 
@@ -111,7 +111,7 @@ edit -->
         
         <div id="lab-article-section-2-icon" class="icon">
           <!-- Enclose the icon image for the section. -->
-	  <img src="images/simulation.jpg" />
+	  <img src="images/content_4.png" />
 	</div>
 
 
@@ -128,7 +128,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">RTD</a> 
+	      <a href="Rtd/index.html">Characterize the temperature sensor (RTD) </a> 
 	    </li>
 	  </ul>
 	</div>
@@ -137,7 +137,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Biosensor</a> 
+	      <a href="Biosensor/index.html">Simulate the performance of a bio-sensor</a> 
 	    </li>
 	  </ul>
 	</div> <div id="lab-article-section-2-content" class="content">
@@ -145,7 +145,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Capacitance</a> 
+	      <a href="Capacitance/index.html">Measurement of level in a tank using capacitive type level probe</a> 
 	    </li>
 	  </ul>
 	</div> <div id="lab-article-section-2-content" class="content">
@@ -153,7 +153,15 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Linear Variable Differntial Transformer</a> 
+	      <a href="LinearVariableDifferntialTransformer/index.html">Characterize the LVDT</a> 
+	    </li>
+	  </ul>
+	</div><div id="lab-article-section-2-content" class="content">
+	  <ul id="list-of-experiments">
+	  
+            <li> 
+	      <!--Link and name of the experiment 1 -->
+	      <a href="Orifice/index.html">Design an orifice plate for a typical application</a> 
 	    </li>
 	  </ul>
 	</div> <div id="lab-article-section-2-content" class="content">
@@ -161,7 +169,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Measurement Of Conductivity</a> 
+	      <a href="PHCalculation/index.html">Simulate the performance of a chemical sensor</a> 
 	    </li>
 	  </ul>
 	</div> <div id="lab-article-section-2-content" class="content">
@@ -169,7 +177,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Orifice</a> 
+	      <a href="StrainGuage/index.html">Characterize the strain gauge sensor </a> 
 	    </li>
 	  </ul>
 	</div> <div id="lab-article-section-2-content" class="content">
@@ -177,23 +185,7 @@ edit -->
 	  
             <li> 
 	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">PH Calculation</a> 
-	    </li>
-	  </ul>
-	</div> <div id="lab-article-section-2-content" class="content">
-	  <ul id="list-of-experiments">
-	  
-            <li> 
-	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Strain Guage</a> 
-	    </li>
-	  </ul>
-	</div> <div id="lab-article-section-2-content" class="content">
-	  <ul id="list-of-experiments">
-	  
-            <li> 
-	      <!--Link and name of the experiment 1 -->
-	      <a href="Rtd/index.html">Thermocouple</a> 
+	      <a href="Thermocouple/index.html">Characterize the temperature sensor (Thermocouple) </a> 
 	    </li>
 	  </ul>
 	</div>
