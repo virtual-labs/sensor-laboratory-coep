@@ -1,0 +1,42 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the Simulator of  “Characterize the strain gauge sensor ” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/sensor-laboratory-coep/blob/master/test-cases/integration_test-cases/Characterize the strain gauge sensor/Characterize the strain gauge sensor_01_Usability_smk.org][Characterize the strain gauge sensor_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Simulator link 
+  2. It should re-direct to the Simulator page
+  3. Click on the 'Click here for Simulator' link
+  4. Select the Material,InputVoltage,Resistance,Configuration&Gauge Factor values from the dropdown list displayed on the screen and click on the 'configure' button and click Yes button in the popup box
+  5. Click on the formula button 
+  6. Using the formula displayed on the screen, enter the Weight,Value of Rg&Enter Output Voltage values in the corresponding fields and click on the submit button
+  7. Repeat 5th step till obtaining upto minimum three values and click on the plot button and the click on the close button
+  8. Click on the level 2 button and click on yes button in the popup box
+  9. Don't select the Position from the dropdown displayed on the screen and click on plot button
+
+* Expected result
+  1. Simulator page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. A new page should be opened with the simulation process
+  4. The bridge circuit should be displayed on the screen and when we click on the configure button a popup box should be displayed on the screen with the selected values 
+  5. When we click on the Yes button in the popup box should get closed and the Level 1 - Measurement page should be displayed on then screen 
+  6. A new tab should be opened with the formula displaying on the screenand when we click on thr plot button, a popup box should get opened with the result graph displaying on the screen 
+  7. When we click on the close button, the popup box should get closed
+  8. When weclick on the level 2 button, a new popup box should be displayed on the screen with the selected values
+  9. An error message should be displayed on the screen as to select the position value
+
+* Review/comments
+
+

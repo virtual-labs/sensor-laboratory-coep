@@ -1,0 +1,44 @@
+* Author: Suman
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+  - Data: @#$,!!@,!@#
+
+* Objective
+  - To view the Simulator of  “Characterize the temperature sensor (RTD)” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/sensor-laboratory-coep/blob/master/test-cases/integration_test-cases/Characterize the temperature sensor (Thermocouple)/Characterize the temperature sensor (Thermocouple)_01_Usability_smk.org][Characterize the temperature sensor (Thermocouple)_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Simulator link 
+  2. It should re-direct to the Simulator page
+  3. Click on the 'Click here for Simulator' link
+  4. Select the type of material and R0 values from the dropdown list displayed on the screen and click on the 'Get Temperature' button 
+  5. Click on the formula button
+  6. Using the formula ,enter the valid 'Output Rt Value' and click on the submit button
+  7. Repeat 4,5&6 steps minimum 3 times and click on plot button
+  8. Now click on the next set value
+  9. Click on level 2 button and repeat 4,5,6,7,&8 steps
+  10. Click on the reload button
+
+* Expected result
+  1. Simulator page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. A new page should be opened with the simulation process
+  4. Temperature value should be displayed on the screen
+  5. A popup box should be displayed on the screen with Rt formula
+  6. When we click on the submit button a sucessfull message should be displayed on the screen
+  7. When we click on the plot button, the graph should be displayed on the screen
+  8. An simulation result should be displayed on the screen 
+  9. When we click on the reload button the page should get reloaded and the entered values should be erased from the corresponding fields
+
+* Review/comments
+
+

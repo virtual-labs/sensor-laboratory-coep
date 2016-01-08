@@ -1,0 +1,43 @@
+* Author: Nihanth
+* Date Created: 08 Jan 2016
+* Environment
+  - OS: Windows 7, Linux
+  - Browsers: Firefox,Chrome
+  - Bandwidth : 100Mbps
+  - Hardware Configuration:8GBRAM , 
+  - Processor:i5
+
+* Objective
+  - To view the Simulator of  “Measurement of level in a tank using capacitive type level probe” experiment
+
+* Pre conditions
+  - Refer to first test case [[https://github.com/Virtual-Labs/sensor-laboratory-coep/blob/master/test-cases/integration_test-cases/Measurement of level in a tank using capacitive type level probe/Measurement of level in a tank using capacitive type level probe_01_Usability_smk.org][Measurement of level in a tank using capacitive type level probe_01_Usability_smk.org]]
+
+* Post conditions
+  - Nil
+* Test Steps
+  1. Click on the Simulator link 
+  2. It should re-direct to the Simulator page
+  3. Click on the 'Click here for Simulator' link
+  4. Select the Height of Tank value,Inner Radius and Services values from the dropdown list displayed on the screen and click on the 'configure system' button 
+  5. In the popup box click on the Yes button
+  6. Click on the formula button and using the formula displayed on the screen enter upto three Rt values and click on the submit button
+  7. Click on the capacitance graph and current graph buttons
+  8. Click on the close button or escape button on keyboard
+  9. Click on next button and change the inner radius value and rtepeat 4,5,6&7 steps
+  10. Click on the reload button
+
+* Expected result
+  1. Simulator page should be opened
+  2. Content should be present with no distortions and Junk characters
+  3. A new page should be opened with the simulation process
+  4. The span value and volume should be displayed on the screen and when we click on the 'configure system' button, a popup box should be displayed on the screen with the selected values 
+  5. The next level simulation page should be displayed on the screen
+  6. A popup box should be displayed on the screen with the formula
+  7. When we click on the submit button, the capacitance graph and current graph should get enabled
+  8. A popup box should be displayed on the screen with the the capacitance and Current graphs and when we click on the close button or escape button on keyboard the popup box should get closed
+  9. When we click on the reload button the page should get reloaded and the entered values should get erased from the corresponding fields
+
+* Review/comments
+
+
