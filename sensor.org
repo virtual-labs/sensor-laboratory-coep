@@ -1,0 +1,169 @@
+#+title: Requirement/Workflow for Sensor modelling and simulation Lab
+#+Author: Integration Team
+#+Date: [2016-05-30]
+
+This document contains the basic work flow and requirement for Sensor modelling and simulation.Testing should happen against all the requirements mentioned in this document by integration team.
+
+* Lab wise requirements
+
+Main page Should contain following tabs for Sensor modelling and simulation Lab with the content related to the introduction.
+
+** Introduction
+
+Content should display on page related to the introduction of Sensor modelling and simulation Lab.
+
+** List of experiments
+
+List of experiment related to Sensor modelling and simulation Lab should display on page.
+
+* Experiment wise requirements
+
+** Characterise the temperature sensor RTD Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link, Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side. 
+
+  User needs to select some inputs and calculate values and press "Submit" button.For the help of calculation formula is provided at right side of screen, when we click on this formula should get open in new pop-up window.
+  
+  After 3 successful calculation user can view and analyse graphs by using "Plot" button and go for level 2 using "Level 2" button.By using "Next set value" user can do another calculations."Reload" button should work to reload the page.
+
+  In the level 2 of experiment simulation is on the left side of the screen and inputs on right side. According to selected inputs simulation should move on.
+
+  "Plot" button provide graphs, user can analyse that using this button. For the help of calculation formula is provided at right side of screen, when we click on this formula should get open in new pop-up window. "Reload" button should work to reload the page.
+  
+  "Level 1"link at top of screen should open level 1 page of experiment.
+  
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+  
+- Feedback tab:When we click on the Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Simulate performance of bio-sensor Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link,Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side. 
+
+    User needs to select speed through "Speed" button and then press "Start rotation".If user pressed Reload button, page should get reload.After specific time interval "Restart" and "Level2"should get activated.
+
+    If user press "Level 2" button, level 2 page should get display with all relevant materials of experiment.Here User should select age by using that button,it will enable "Show in this Range group" button.After pressing this button user should get some output(text line).Again it will enable "Level 3" button which should open level 3 of experiment with relevant material.
+
+    In the level 3 of experiment user should be able to analyse the error,he needs to give some input and observe the results.Again "Reload" button should work to reload the page.	
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Measurement of level in a tank using capacitive type level probe Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link, Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side. 
+
+  User needs to give some inputs and then configure the system using "Configure" button,here simulation should follow selected input value,then "Yes" or "No" needs to select. For the help of calculation formula is provided at right side of screen, when we click on this formula should get open in new pop-up window.
+
+  Two links are provided at bottom that should display relevant information in pop-up window. Once user have done with configuration and press "Yes",he can go for level 2 of experiment.He/She can go for another calculation by using "set value" button and can reload the whole page with "Reload" button.
+   
+  In level 2 of simulation, simulator should follow selected input values.Here user should be able to calculate some expected inputs.For the help of calculation formula is provided at right side of screen, when we click on this formula should get open in new pop-up window.If the answer is correct,it should get submit through "Submit button" otherwise "Re-calculate" message should get display.After 3 successful calculations user can view the graphs by using graph buttons at bottom.If he pressed Reload button, page should get reload. Next button should take you to change some inputs.
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button. 
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Characterize of LVDT Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link, Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side.
+
+   Circuits are provided on right side of screen, user just need to drag and drop that circuit in left side working area. According to selected inputs,simulation should move on.By pressing "Configure" button user should move to graphs.
+   
+   The diagram at extreme right side requires user input variations, according to that variations graphs should be change."Configure" button should open circuit making page whereas "Reload" button should reload the page.Here user sholuld be able to calculate some expected outputs.For the help of calculation formula is provided at bottom right of screen, when we click on this formula should get open in new pop-up window.
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Design a Orifice plate for typical application Experiment
+
+It should contain the Aim,Pretest,Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link,Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation and some  inputs at bottom.
+
+  For the help of calculation formula is provided at bottom right of screen,when we click on this formula should get open in new pop-up window.According to value selection simulation should move on.
+  
+  Two drop down inputs value should be visible. "configure" button should open confirmation page.After confirmation level 1 should get open.Here user needs to give some input and calculate some values. After 3 successful calculations user can plot the graphs and go for level 2 using "Plot" and "Level 2" respectively."Reload" button should reload the page."Next set value" should allow you to do repeat experimentation.
+  
+  In the level 2 of experiment user should give select some inputs."Configure" button should open confirmation page."Level 3" button should open level 3 of experiment, here also user should give select some inputs."Reload" button should reload the page
+  
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Simulate the performance of chemical sensor(PH) Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link,Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side.
+   
+   User needs to select some inputs and observe the graphs using "Plot" button."Reload" button should reload the page.For the help of calculation formula is provided at bottom right of screen, when we click on this formula should get open in new pop-up window.
+   
+   "Level 2" button should open level 2 simulation of experiment.Here user should be able to calculate the output using "Formula" button at right side of screen.After entering calculated value user should press "Submit" button, which should give message that answer is correct or not.Correct answer should get display in the table.
+
+   "Level 3" button should open level  simulation of experiment.Here user only needs to select some inputs."Plot" button should display respective graph of readings.
+  
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Characterize the strain gauge sensor Experiment
+
+It should contain the Aim,Pretest, Theory,Procedure,Audio/Video,Post test, Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the Pretest link, Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side.
+
+  Here user needs to select some inputs and that input should be visible.As per selected input values simulation should move on.
+  "Configuration" button should ask for confirmation in new pop-up and move to level 1.User should be able to calculate the output using "Formula" button at right side of screen.
+  
+  In the level 1 of experiment user needs to select some inputs and calculate output using "Formula" button."Submit" button should give message that answer is correct or not.After 3 successful calculation user can plot graph of readings with "Plot" button.
+  
+  "Next set value" should allow user to do another calculations."Level2" button should ask for confirmation in new pop-up and open level 2 of experiment.   
+  
+  In the level 2 of experiment user needs to select some inputs and plot the graph of readings with "Plot" button after 3 variations in readings,it will cause dragging of weight in the simulation at different position and this should change readings.
+
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
+** Characterize the temperature sensor(Thermocouple) Experiment
+
+It should contain the Aim,Pretest,Theory,Procedure,Audio/Video,Post test,Review Questions,Reference,Photo Gallery and feedback on the left corner and all the tabs should contain the relevant information.
+
+- Pretest tab:When we click on the  Pretest link, Pretest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Simulator:When we click on Simulator tab,simulator link should get open.This link should open with simulation on left side and inputs on right side.
+
+   Here user needs to select some inputs and calculate output and submit it using "Submit" button,it should give message that answer is correct or not.After 3 successful calculations user can go for level 2 using "Level2" button. Level 2 button should open level 2 of experiment."Plot" button should open graph for selected input and output.
+  
+   In the level 2 of experiment user only needs to select some inputs.User should be able to calculate the output using "Formula" button at right side of screen."Plot" button should open graph of readings."Reload" button should reload the page.   
+   
+- Posttest tab:When we click on the Pretest link,Posttest page should get display on the screen with questions along with objectives and Submit and Reset button.
+
+- Feedback tab:When we click on the  Feedback link,Feedback page should get display with all fields and Submit button.
+
