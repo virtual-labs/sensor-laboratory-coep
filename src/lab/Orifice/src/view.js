@@ -5,7 +5,7 @@ $(document).ready(function() {
 				{
 					window.open("formula.html","Formula" ,"left=20,top=20,width=600,height=350,toolbar=1,resizable=0,scrollbars=yes");
 				});
-	$('select').chosen();
+	//$('select').chosen();
 	$( ".slider" ).slider();
 	
 	var measurementView = new ORIFICE.view.measurementView();
