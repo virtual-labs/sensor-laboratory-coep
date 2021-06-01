@@ -229,9 +229,9 @@ ORIFICE.controller = (function() {
 		cd = parseFloat(cd.toFixed(4));
 		//console.log('cd  ' + cd)
 		$(id).html(cd);
-		var dp1 = (Math.pow(Q, 2) * (1 - Math.pow(beta, 4)) * 8 * config.densityvalue).toFixed(8);
+		var dp1 = (Math.pow(Q, 2) * (1 - Math.pow(beta, 4)) * 8).toFixed(8);
 		//console.log('dp1 ' + dp1)
-		var dp2 = (Math.pow((cd * 3.1416 ), 2) * Math.pow(d, 4)).toFixed(8);
+		var dp2 = (Math.pow((cd * 3.1416 ), 2) * Math.pow(d, 4) * config.densityvalue).toFixed(8);
 		//console.log('dp2 ' + dp2)
 		deltap = (parseFloat(dp1 / dp2)).toFixed(2)*0.102;
 		console.log("DeltaP:"+deltap)
